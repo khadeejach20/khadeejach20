@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khadeeja
 - 👀 I’m currently interested in Data Science for Healthcare Advancements
 - 🌱 I’m currently learning at the University of London
-- 📫 How to reach me on khadeejach.20@gmail.com
+- 📫 You can reach me on khadeejach.20@gmail.com
 
 <!---
 khadeejach20/khadeejach20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
